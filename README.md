@@ -25,7 +25,8 @@ A aplicação consiste em dados de vendas de alguns vendedores listados no app w
 - Spring Boot
 
 ## Front end
-- HTML / CSS / JS / TypeScript
+- TypeScript
+- ReactJS
 
 ## Implantação em produção
 - Back end: Heroku
